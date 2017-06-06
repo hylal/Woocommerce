@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Ipaymu Gateway\n"
+"POT-Creation-Date: 2016-11-11 01:28+0000\n"
+"PO-Revision-Date: 2016-11-11 01:28+0000\n"
+"Last-Translator: masedi <me@masedi.net>\n"
+"Language-Team: Indonesian\n"
+"Language: id-ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _(;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp3\\wp-"
+"content\\plugins\\woocommerce-ipaymu\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: wc-gateway-ipaymu.php:23
+msgid ""
+"<strong><a href=\"https://my.ipaymu.com?rid=masedi\">WooCommerce Gateway "
+"iPaymu</a></strong> plugin depends on the last version of <a href=\"http:"
+"//wordpress.org/extend/plugins/woocommerce/\">WooCommerce</a> to work!"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:76
+msgid "iPaymu Checkout"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:242
+msgid "Enable/Disable"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:251
+msgid "iPaymu"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:262
+msgid "iPaymu Username"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:268
+msgid "iPaymu API Key"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:285
+msgid "PayPal Email"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:293
+msgid "PayPal Invoice Prefix"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:307
+msgid "Gateway Testing"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:312
+msgid "Debug Log"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:316
+msgid ""
+"Log iPaymu events, such as API requests, inside <code>"
+"woocommerce/logs/ipaymu.txt</code>"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:319
+msgid "Credit Link"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:324
+msgid "Enable/Disable Credit Link"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:326
+msgid "Enable credit link"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:341
+msgid "WooCommerce Gateway iPaymu"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:342
+msgid ""
+"The plugin works by sending the customer to iPaymu website to enter their "
+"payment information."
+msgstr ""
+
+#: wc-gateway-ipaymu.php:350
+msgid "Gateway Disabled"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:392 wc-gateway-ipaymu.php:434
+#, php-format
+msgid "1 item"
+msgid_plural "%1$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wc-gateway-ipaymu.php:450
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:453
+#, php-format
+msgid "Payment for Order #%s contains %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:538 wc-gateway-ipaymu.php:538
+#: wc-gateway-ipaymu.php:540 wc-gateway-ipaymu.php:540
+msgid "Pay via iPaymu"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:761
+msgid "Waiting payment processed by iPaymu."
+msgstr ""
+
+#: wc-gateway-ipaymu.php:764
+#, php-format
+msgid "Waiting payment - %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:769
+msgid "Waiting payment processed"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:770
+#, php-format
+msgid "Waiting payment for order %s from iPaymu on: %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:775
+#, php-format
+msgid ""
+"Your order %s has been received and still waiting for payment being "
+"processed by iPaymu"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:795
+#, php-format
+msgid ""
+"Payment validation error: iPaymu amounts do not match. Total payment (gross "
+"%s) and (fee %s). Order total %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:826
+#, php-format
+msgid "Payment completed using iPaymu - %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:864
+msgid "Payment refunded via iPaymu."
+msgstr ""
+
+#: wc-gateway-ipaymu.php:867
+#, php-format
+msgid "Payment refunded - %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:872
+msgid "Order refunded/reversed"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:873
+#, php-format
+msgid "Order %s has been marked as refunded via iPaymu on: %s"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:878
+#, php-format
+msgid "Payment for order %s refunded/reversed"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:1176
+msgid "Indonesian Rupiah"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce iPaymu Payment Gateway"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce iPaymu Payment Gateway is a fully-working Indonesia Payment "
+"Gateway (iPaymu) for WooCommerce Wordpress store. Tested on WordPress 3.5.1 "
+"and WooCommerce 2.0.3."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://masedi.net/wordpress/plugins/woocommerce-ipaymu-gateway.html"
+msgstr ""
+
+#. Author of the plugin
+msgid "MasEDI"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://masedi.net/"
+msgstr ""
+
+#: wc-gateway-ipaymu.php:181
+#, php-format
+msgid ""
+"<strong>WooCommerce Gateway iPaymu</strong> is almost ready. Please enter <a "
+"href=\"%s\">your iPaymu API Key</a> for it to work."
+msgstr ""
+"<strong>WooCommerce Gateway iPaymu</strong> telah siap digunakan. Silakan "
+"masukkan iPaymu API Key Anda <a href=\"%s\">disini</a>."
+
+#: wc-gateway-ipaymu.php:192
+#, php-format
+msgid ""
+"<strong>WooCommerce Gateway iPaymu</strong> is enabled and the <em><a "
+"href=\"%s\">force SSL option</a></em> is disabled; your checkout is not "
+"secure! Please enable SSL and ensure your server has a valid SSL certificate."
+msgstr ""
+"<strong>WooCommerce Gateway iPaymu</strong> telah aktif dan <em><a "
+"href=\"%s\">force SSL option</a></em> website Anda non aktif! Untuk keamanan,"
+" segera aktifkan SSL dan pastikan website Anda memiliki sertifikat SSL yang "
+"valid."
+
+#: wc-gateway-ipaymu.php:203
+#, php-format
+msgid ""
+"<strong>WooCommerce Gateway iPaymu</strong> PayPal module is enabled. Please "
+"enter <a href=\"%s\">your PayPal email</a> for it to work."
+msgstr ""
+"<strong>WooCommerce Gateway iPaymu</strong> PayPal module aktif. Silakan "
+"masukkan <a href=\"%s\">email PayPal</a> Anda."
+
+#: wc-gateway-ipaymu.php:244
+msgid "Enable iPaymu payment gateway."
+msgstr "Aktifkan gateway pembayaran iPaymu."
+
+#: wc-gateway-ipaymu.php:248
+msgid "Gateway Title"
+msgstr "Nama Gateway"
+
+#: wc-gateway-ipaymu.php:250
+msgid "Payment method title which the customer will see during checkout."
+msgstr "Nama gateway Ipaymu yang akan dilihat pembeli saat melakukan checkout."
+
+#: wc-gateway-ipaymu.php:255
+msgid "Description"
+msgstr "Diskripsi"
+
+#: wc-gateway-ipaymu.php:257
+msgid "Payment method description which the customer will see during checkout."
+msgstr ""
+"Diskripsi penjelasan tentang gateway Ipaymu yang akan dilihat pembeli saat "
+"melakukan checkout."
+
+#: wc-gateway-ipaymu.php:258
+#, php-format
+msgid ""
+"Automatic Bank Transfer payment via iPaymu. Alternatively you can pay with "
+"your PayPal account instead of Ipaymu, you can also pay with credit card if "
+"you don't have iPaymu or PayPal account. Need an iPaymu Account? <a "
+"href=\"%s\">Register here!</a>"
+msgstr ""
+"Pembayaran otomatis transfer antar Bank melalui iPaymu. Anda juga bisa "
+"melakukan pembayaran melalui PayPal maupun Kartu Kredit. Tidak punya akun "
+"Ipaymu? <a href=\"%s\">Silakan Daftar disini!</a>"
+
+#: wc-gateway-ipaymu.php:264
+msgid "Please enter your iPaymu Login ID (username)."
+msgstr "Masukkan iPaymu Login ID (username) Anda."
+
+#: wc-gateway-ipaymu.php:264
+#, php-format
+msgid ""
+"If you don't have iPaymu account you can get one for free. <a href=\"%s\" "
+"target=\"_blank\">Register iPaymu account here</a>!"
+msgstr ""
+"Jika Anda belum memiliki akun iPaymu, silakan daftar gratis <a href=\"%s\" "
+"target=\"_blank\">disini</a>!"
+
+#: wc-gateway-ipaymu.php:270
+msgid "Please enter your iPaymu API Key."
+msgstr "Masukkan iPaymu API Key Anda."
+
+#: wc-gateway-ipaymu.php:270
+#, php-format
+msgid ""
+"You can to get this information in: <a href=\"%s\" target=\"_blank\">Ipaymu "
+"Account</a>."
+msgstr ""
+"Informasi tentang API Key bisa Anda peroleh di halaman <a href=\"%s\" "
+"target=\"_blank\">Akun Ipaymu</a>."
+
+#: wc-gateway-ipaymu.php:274
+msgid "PayPal Payment"
+msgstr "Pembayaran dengan PayPal"
+
+#: wc-gateway-ipaymu.php:276
+msgid "PayPal is official iPaymu alternative payment."
+msgstr "PayPal adalah alternatif pembayaran resmi dari iPaymu."
+
+#: wc-gateway-ipaymu.php:279
+msgid "Enable/Disable PayPal Module"
+msgstr "Aktifkan Modul PayPal"
+
+#: wc-gateway-ipaymu.php:281
+msgid ""
+"If you select to enable PayPal, you must also enable PayPal module in your "
+"iPaymu account."
+msgstr ""
+"Jika Anda memilih pembayaran PayPal, Anda harus mengaktifkan PayPal module "
+"pada akun iPaymu."
+
+#: wc-gateway-ipaymu.php:287
+msgid ""
+"If you select to enable PayPal; Please enter your PayPal email address; this "
+"is needed if you enable PayPal Module."
+msgstr ""
+"Jika Anda mengaktifkan pembayaran dengan PayPal, Anda harus memasukkan "
+"alamat email PayPal untuk menerima pembayaran."
+
+#: wc-gateway-ipaymu.php:295
+msgid ""
+"If you select to enable PayPal; Please enter a prefix for your Paypal "
+"invoice numbers. If you use your PayPal account for multiple stores ensure "
+"this prefix is unqiue as PayPal will not allow orders with the same invoice "
+"number."
+msgstr ""
+"Jika Anda mengaktifkan pembayaran dengan PayPal, Gunakan prefix tagihan "
+"untuk pembayaran menggunakan PayPal. Tips: prefix tagihan untuk memudahkan "
+"laporan keuangan masing-masing toko online Anda."
+
+#: wc-gateway-ipaymu.php:300
+msgid "USD Currency Rate"
+msgstr "Kurs US Dollar"
+
+#: wc-gateway-ipaymu.php:302
+msgid ""
+"If you select to enable PayPal; Please enter an Exchange Rate for 1 US "
+"Dollar (USD) in your default currency (ex: 9500). Due to Paypal has no "
+"support for Indonesia Rupiah (IDR) and iPaymu can not automatically convert "
+"currency from IDR to USD for Paypal payment, you should set a default "
+"currency rate to avoid the wrong price. If not set, WooCommerce Gateway "
+"iPaymu will use live rate provided by KlikBCA."
+msgstr ""
+"Jika Anda mengaktifkan pembayaran dengan PayPal, masukkan kurs mata uang USD "
+"(Dollar) dalam IDR (Rupiah). Jika tidak, WooCommerce Gateway iPaymu akan "
+"menggunakan kurs mata uang dari KlikBCA."
+
+#: wc-gateway-ipaymu.php:314
+msgid "Enable logging"
+msgstr "Aktifkan Log"
+
+#: wc-gateway-ipaymu.php:351
+#, php-format
+msgid ""
+"WooCommerce Gateway iPaymu does not support your store currency. Current "
+"supported currencies: Indonesia Rupiah (IDR) and US Dollar (USD). <a "
+"href=\"%s\">Click here to configure your currency!</a>"
+msgstr ""
+"WooCommerce Gateway iPaymu tidak mendukung mata uang toko Anda. Mata uang "
+"yang didukung adalah Indonesia Rupiah (IDR) dan US Dollar (USD). <a "
+"href=\"%s\">Klik untuk mengubah mata uang Anda!</a>"
+
+#: wc-gateway-ipaymu.php:399 wc-gateway-ipaymu.php:440
+#, php-format
+msgid "Shipping via %s"
+msgstr "Pengiriman menggunakan %s"
+
+#: wc-gateway-ipaymu.php:566
+msgid ""
+"Sorry, an error has occurred while processing your payment, please try again."
+" Or contact our billing department for further assistance."
+msgstr ""
+"Mohon maaf, terjadi kesalahan saat melakukan proses pembayaran otomatis. "
+"Silakan ulangi lagi! Atau hubungi kami untuk informasi lebih lanjut."
+
+#: wc-gateway-ipaymu.php:567
+msgid "Click to try again"
+msgstr "Klik untuk mencoba lagi"
+
+#: wc-gateway-ipaymu.php:596
+msgid ""
+"Thank you for your order, please click the button below to pay with iPaymu."
+msgstr ""
+"Terima kasih atas pesanan Anda, silakan klik tombol berikut untuk membayar "
+"dengan iPaymu."
+
+#: wc-gateway-ipaymu.php:831
+msgid "Order received and processed"
+msgstr "Pemesanan telah diterima dan diproses"
+
+#: wc-gateway-ipaymu.php:832
+#, php-format
+msgid ""
+"Payment for order %s has been received via iPaymu on: %s and we're "
+"processing your order now. Please be patient while we are shipping your "
+"order."
+msgstr ""
+"Pembayaran untuk order %s telah kami terima melalui iPaymu pada %s. Mohon "
+"bersabar, saat ini pesanan Anda sedang kami proses untuk segera dikirim."
+
+#: wc-gateway-ipaymu.php:835
+#, php-format
+msgid "Your payment for order %s has been received"
+msgstr "Pembayaran Anda untuk order %s telah diterima"
